@@ -1,2 +1,3 @@
 user-agent: *
 disallow: /404.html
+sitemap: https://ptest.ml/sitemap.xml
